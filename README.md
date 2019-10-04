@@ -10,7 +10,7 @@
 可以到我的Blog：https://juuice.cn/index.php/azurlane-scripts-autopatcher-beta/  
 =
 
-同时也欢迎交流修改方法，提供新点子开发新功
+同时也欢迎交流修改方法，提供新点子开发新功能
 =
 
 
