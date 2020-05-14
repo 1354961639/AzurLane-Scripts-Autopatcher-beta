@@ -7,7 +7,7 @@
 因为一些原因，我已停止在Github上发布此项目，只提供成品。
 =
 
-可以到我的Blog：https://juuice.cn/index.php/azurlane-scripts-autopatcher-beta/  
+可以到我的Blog：http://blog.juuice.cn/?page_id=17
 =
 
 同时也欢迎交流修改方法，提供新点子开发新功能
